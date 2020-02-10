@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Svg Vector Icons : http://www.onlinewebfonts.com/icon -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">
+<defs>
+  <style type="text/css">
+   <![CDATA[
+    .class1 {fill: #FFF}
+   ]]>
+  </style>
+ </defs>
+<g><path class="class1" d="M167.1,38.3h665.8v591.7H862V10H138v980h364.1v-28.3h-335V38.3z"/><path class="class1" d="M233.9,131.3h532.1v28.3H233.9V131.3z"/><path class="class1" d="M233.9,305.7h532.1v28.3H233.9V305.7z"/><path class="class1" d="M233.9,480.1h532.1v28.3H233.9V480.1L233.9,480.1z"/><path class="class1" d="M233.9,828.9h268.1v28.3H233.9V828.9L233.9,828.9z"/><path class="class1" d="M233.9,654.5h268.1v28.3H233.9V654.5L233.9,654.5z"/><path class="class1" d="M862,816.7H718.1V672.8h-29.4v143.9H544.8v29.4h143.9V990h29.4V846.1H862V816.7z"/></g>
+</svg>

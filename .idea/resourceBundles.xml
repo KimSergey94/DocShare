@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/main/resources/locale.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/locale_kz.properties.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/resources/locale_ru.properties.properties" />
+      <base-name>locale</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
